@@ -50,6 +50,9 @@ h3{
     margin-top: 0;
     margin-bottom: 1rem;
 }
+#contact {
+    background-image: url('https://mdbcdn.b-cdn.net/img/new/standard/city/053.webp');
+}
 section#contact form#contactForm .form-group {
     margin-bottom: 1.5rem;
 }
